@@ -10,3 +10,22 @@ function clicando(){
 alert('oi');
 }
 
+
+//////////////////////////////
+
+var qtdeBotoes = document.querySelectorAll('.drum').length;
+
+for (var i=0; i<qtdeBotoes; i++){
+    document.querySelectorAll('.drum')[i].addEventListener('click', function(){
+        alert('oi');
+    });
+}
+
+
+//////////////
+
+document.querySelectorAll(".drum").addEventListener('click', clicando);
+
+function clicando(){
+alert('oi');
+}

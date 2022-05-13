@@ -1,6 +1,6 @@
 # Drum-Kit
 
-Srum set made with vanilla JS! Use your keyboard to play drums!
+Drum set made with vanilla JS! Use your keyboard to play drums!
 
 To check the page just click on the link: https://mylenaverspeelt.github.io/Drum-Kit/
 

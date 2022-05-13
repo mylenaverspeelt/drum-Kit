@@ -11,7 +11,6 @@ To check the page just click on the link: https://mylenaverspeelt.github.io/Drum
     <img align="left" height="30" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <img align="left" height="30" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
     <a href="https://www.javascript.com/"><img align="center" height="30" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></a>
-    <img align="left" height="30" src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg">
     </div>
 <br />
 

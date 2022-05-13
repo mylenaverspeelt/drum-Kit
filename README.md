@@ -1,7 +1,25 @@
+# Drum-Kit
 
-<h1>✨ Drum Kit</h1>
-<p>Página criada como prática ao Módulo de JavaScript Avançado com manipulação de D.O.M do Bootcamp The Complete 2021 Web Development Bootcamp - The App Brewery</p>
-<p>Consiste em reproduzir os sons de cada parte de uma bateria, seja clicando na sua tecla correspondente ou no botão na tela. Assim que o evento (seja o clique ou o pressionamento da tecla) é acionado, ocorre uma pequena animação.</p>
-<p>Por se tratar apenas de um projeto para prática de JavaScript e D.O.M não houve preocupação em deixar a página 100% responsiva.</p>
-<p>Sem fins lucrativos</p>
-<p>Desenvolvido por: Mylena Verspeelt 🌻</p>
+Srum set made with vanilla JS! Use your keyboard to play drums!
+
+To check the page just click on the link: https://mylenaverspeelt.github.io/Drum-Kit/
+
+<img src="./images/read-me-img.png"/>
+
+<h3 align="left">Tech Stacks & Tools</h3>
+    <div align="left">
+    <img align="left" height="30" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+    <img align="left" height="30" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+    <a href="https://www.javascript.com/"><img align="center" height="30" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></a>
+    <img align="left" height="30" src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg">
+    </div>
+<br />
+
+<br />
+<img align="left" src="https://avatars.githubusercontent.com/mylenaverspeelt?size=75">
+<p align="left">
+Developed by: Mylena Verspeelt 🦜<p>
+<p align="left"><a href="https://www.linkedin.com/in/mylenaverspeelt" target="_blank">LinkedIn</a></p>
+ 
+
+
